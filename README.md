@@ -5,7 +5,7 @@ CV Extractor is a Django web application that extracts email addresses and mobil
 ## Installation
 
 1. Clone the repository:
-   * git clone https://github.com/Prasad-Bojja/cv-extractor
+   * git clone https://github.com/Prasad-Bojja/CV_extractor/tree/master
      
 2. Navigate to the project directory:
    * cd cv-extractor
