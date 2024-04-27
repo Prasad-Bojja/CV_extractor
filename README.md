@@ -27,10 +27,10 @@ CV Extractor is a Django web application that extracts email addresses and mobil
 
 ## Technologies Used
 
-*Python
-*Django
-*HTML
-*CSS
-*JavaScript
+*Python, 
+*Django, 
+*HTML, 
+*CSS, 
+*JavaScript, 
 *Bootstrap
 
