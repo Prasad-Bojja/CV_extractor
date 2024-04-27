@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CV Extractor
 
 CV Extractor is a Django web application that extracts email addresses and mobile numbers from uploaded CV files (PDF, DOCX, DOC, TXT) and generates an Excel file with the extracted data.
@@ -6,7 +6,7 @@ CV Extractor is a Django web application that extracts email addresses and mobil
 ## Installation
 
 1. Clone the repository:
-   * git clone https://github.com/Prasad-Bojja/CV_extractor/tree/master
+   * git clone https://github.com/Prasad-Bojja/CV_extractor
      
 2. Navigate to the project directory:
    * cd cv-extractor
@@ -19,7 +19,7 @@ CV Extractor is a Django web application that extracts email addresses and mobil
 1. Run the Django development server:
    * python manage.py runserver
 
-2. Access the application in your web browser at http://localhost:8000/upload-cv.
+2. Access the application in your web browser at http://localhost:8000/.
    
 3. Upload CV files (PDF, DOCX, DOC, TXT) and click the "Upload" button to extract email addresses and mobile numbers.
    
@@ -33,6 +33,4 @@ CV Extractor is a Django web application that extracts email addresses and mobil
 *CSS
 *JavaScript
 *Bootstrap
-=======
-# CV_extractor
->>>>>>> 0f8b9c1b5585ee71a294fda23d25e8e9695a9a41
+
